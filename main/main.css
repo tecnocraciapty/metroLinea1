@@ -1,0 +1,31 @@
+/* CSS declarations go here */
+
+.station{
+	display:inline;
+	fill:#2dced2;
+	fill-opacity:1;
+	stroke:#000000;
+	stroke-width:2.17688346;
+	stroke-miterlimit:4;
+	stroke-dasharray:none;
+	stroke-opacity:1;
+}
+
+.map {
+	fill:#F3EBC3;
+	fill-opacity:1;
+	stroke:#000029;
+	stroke-width:0.3;
+	troke-miterlimit:4;
+	stroke-dasharray:none;
+	stroke-dashoffset:0;
+	stroke-opacity:1
+}
+
+section {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	height: 100%;
+	width: 100%;
+}
